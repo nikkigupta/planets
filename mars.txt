@@ -1,1 +1,2 @@
+this is a small text file
 Mars is large and red, but cold.
