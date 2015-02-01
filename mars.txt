@@ -1,2 +1,5 @@
+
 this is a small text file
+
 Mars is large and red, but cold.
+now i am adding text and modifying file 
